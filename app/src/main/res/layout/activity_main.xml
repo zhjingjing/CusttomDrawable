@@ -35,6 +35,14 @@
                 android:id="@+id/circleimage"
                 android:layout_margin="10dp"
                 />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/clipview"
+                android:layout_margin="10dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/clip_img"
+                />
         </LinearLayout>
 
     </ScrollView>
